@@ -1,1 +1,5 @@
 # Income_prediction_using_API
+
+"Go to college, get a better job." People have believed this quote for a long time. Yet, is this still true in today's world? Can we say that going to college would guarantee a better job? Sadly, we all know that that quote would not affect our world. Degrees from college are varied, complex, and often ignored. Although a bachelor's degree is still a big part, where and which field of the degree becomes more important than the degree itself.
+
+First, I must ask one question. "What's a better job?" This can be a very personal question, but in general, we determine this question by future earnings. Salary! In this post, I assemble a dataset for investigating colleges and universities. Fortunately, there is a large collection of higher education data from the government that is accessible through an API. I use Data.gov to get this data.
